@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{3DF192C6-14DF-4589-8739-F68039A8CA78}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Datasets/Models/Dataset.cs">
+    <Files>
+      <File FileName="Datasets/Views/Shared/_Layout.cshtml" Line="18" Column="33" IsPinned="True" />
+      <File FileName="Datasets/Controllers/DatasetController.cs" />
+      <File FileName="Datasets/Views/Dataset/Index.cshtml" />
+      <File FileName="Datasets/Views/Dataset/Details.cshtml" />
+      <File FileName="Datasets/Views/Dataset/Create.cshtml" Line="25" Column="19" />
+      <File FileName="Datasets/Views/Dataset/Delete.cshtml" Line="24" Column="19" />
+      <File FileName="Datasets/Views/Dataset/Edit.cshtml" Line="14" Column="19" />
+      <File FileName="Datasets/Views/_ViewImports.cshtml" />
+      <File FileName="Datasets/Views/_ViewStart.cshtml" />
+      <File FileName="Datasets/wwwroot/css/site.css" />
+      <File FileName="Datasets/wwwroot/css/templatemo-xtra-blog.css" />
+      <File FileName="Datasets/Startup.cs" Line="31" Column="43" />
+      <File FileName="Datasets/Data/DatasetsContext.cs" />
+      <File FileName="Datasets/Program.cs" Line="1" Column="1" />
+      <File FileName="Datasets/Controllers/DownloadController.cs" Line="68" Column="1" />
+      <File FileName="Datasets/Controllers/HomeController.cs" />
+      <File FileName="Datasets/Models/SeedData.cs" Line="19" Column="24" />
+      <File FileName="Datasets/appsettings.json" />
+      <File FileName="Datasets/Models/Dataset.cs" Line="12" Column="1" />
+      <File FileName="Datasets/Models/Keyword.cs" Line="1" Column="1" />
+      <File FileName="Datasets/Datasets.db" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Datasets" expanded="True">
+            <Node name="Datasets" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Dataset.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Dataset" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="files" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Datasets PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
